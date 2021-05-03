@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    padding: 0% 10%;
+}
+
+header {
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 40px;
+    color: #555;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+  margin:30px 0 20px;  
+}
+a {
+    margin-bottom: 20px;
+}
+.h-h1 {
+    font-weight: 100;
+}
+.cnt {
+    border-left: 3px dotted gray;
+    padding-left: 40px;
+}
+.grn {
+    color: green;
+}
